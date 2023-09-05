@@ -1,0 +1,7 @@
+.details {
+  display: flex;
+  justify-content: space-between;
+}
+.span {
+  margin-inline-end: 2rem;
+}

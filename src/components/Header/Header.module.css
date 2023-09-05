@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans:wght@600&display=swap");
+
+.header {
+  height: 4rem;
+  width: 100%;
+  background-color: rgb(108, 108, 226);
+  color: black;
+  font-family: "Encode Sans", sans-serif;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 1.25rem;
+}
+
+img {
+  height: 3rem;
+  width: 3rem;
+  padding-inline: 3rem;
+}

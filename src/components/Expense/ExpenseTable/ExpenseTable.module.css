@@ -1,0 +1,33 @@
+.table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.table td,
+.table th {
+  border: 1px solid #2148f6;
+  padding: 8px;
+}
+
+.table tr:nth-child(odd) {
+  background-color: #c1c9f3;
+}
+
+.table tr:hover {
+  background-color: #99a9ee;
+}
+
+.table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: rgb(177, 194, 240);
+  color: black;
+}
+.notes {
+  word-wrap: break-word;
+}
+.actions {
+  display: flex;
+  justify-content: space-evenly;
+}
